@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="root" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="busqueda1.FXMLDocumentController">
+    <children>
+        <Button fx:id="button" layoutX="208.0" layoutY="88.0" onAction="#handleButtonAction" text="Busqueda" />
+      <TextField fx:id="text" layoutX="33.0" layoutY="88.0" />
+    </children>
+</AnchorPane>
