@@ -12,10 +12,6 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
-/**
- *
- * @author chanklor
- */
 public class Busqueda1 extends Application {
     
     @Override
